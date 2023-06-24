@@ -62,3 +62,10 @@ ventana.mainloop()
 
 #TAREA
 #Crear una calculadora
+# git add .
+# git commit -m "mensaje"
+# git push
+
+
+#git pull
+#git checkout
