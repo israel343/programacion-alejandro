@@ -27,15 +27,7 @@ def elpepe(str):
         array1.remove('open')
     if 'and' in array1:
         array1.remove('and')
-    array3 = []
-    
-    for i in array1:
-        array3.append(retornar_texto(i))
-        
-    return array3
-    
-    
-# Función para abrir una aplicación
+    array3 = [] 
 def abrir_aplicacion(appArray):
     try:
         for aplicacion in appArray:
